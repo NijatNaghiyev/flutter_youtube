@@ -43,7 +43,7 @@ flutter pub get
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_youtube_video/flutter_youtube.dart';
+import 'package:flutter_youtube_video/flutter_youtube_video.dart';
 
 class MyYouTubePlayer extends StatelessWidget {
   const MyYouTubePlayer({super.key});
@@ -93,7 +93,7 @@ FlutterYouTubePlayer(
 ### Extracting Video ID from a YouTube URL
 
 ```dart
-import 'package:flutter_youtube_video/flutter_youtube.dart';
+import 'package:flutter_youtube_video/flutter_youtube_video.dart';
 
 void main() {
   final url = 'https://www.youtube.com/watch?v=1234567';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_youtube_video/flutter_youtube.dart';
+import 'package:flutter_youtube_video/flutter_youtube_video.dart';
 
 void main() {
   runApp(const MyApp());
