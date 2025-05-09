@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:flutter_youtube/src/constants.dart';
-import 'package:flutter_youtube/src/flutter_youtube_player_mixin.dart';
+import 'package:flutter_youtube_video/src/constants.dart';
+import 'package:flutter_youtube_video/src/flutter_youtube_player_mixin.dart';
 
 /// Callback function triggered when the video duration is modified
 typedef DurationCallBack =

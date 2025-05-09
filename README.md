@@ -28,7 +28,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flutter_youtube: ^latest-version
+  flutter_youtube_video: ^latest-version
 ```
 
 Then run:
@@ -43,7 +43,7 @@ flutter pub get
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:flutter_youtube/flutter_youtube.dart';
+import 'package:flutter_youtube_video/flutter_youtube.dart';
 
 class MyYouTubePlayer extends StatelessWidget {
   const MyYouTubePlayer({super.key});
@@ -93,7 +93,7 @@ FlutterYouTubePlayer(
 ### Extracting Video ID from a YouTube URL
 
 ```dart
-import 'package:flutter_youtube/flutter_youtube.dart';
+import 'package:flutter_youtube_video/flutter_youtube.dart';
 
 void main() {
   final url = 'https://www.youtube.com/watch?v=1234567';
@@ -136,4 +136,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# flutter_youtube
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.# flutter_youtube_video
