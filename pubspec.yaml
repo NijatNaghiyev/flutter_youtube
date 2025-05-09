@@ -1,6 +1,6 @@
 name: flutter_youtube_video
 description: "Flutter package to play Youtube videos using the InAppWebView plugin."
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/NijatNaghiyev/flutter_youtube_video
 
 environment:
