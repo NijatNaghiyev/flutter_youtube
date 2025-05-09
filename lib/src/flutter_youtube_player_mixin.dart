@@ -213,6 +213,4 @@ mixin FlutterYoutubePlayerMixin on State<FlutterYoutubePlayer> {
 </html>
 ''';
   }
-
-
 }
