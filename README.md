@@ -1,4 +1,4 @@
-# Flutter YouTube
+# Flutter YouTube Video
 
 A Flutter package for playing YouTube videos using the `InAppWebView` plugin. This package provides a customizable YouTube player widget with playback controls, fullscreen support, and callback events. It also includes a utility method to extract video IDs from YouTube URLs.
 
